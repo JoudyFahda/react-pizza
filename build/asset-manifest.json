@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.481dfe1a.css",
+    "main.js": "/static/js/main.3f356a53.js",
+    "static/js/787.44c24075.chunk.js": "/static/js/787.44c24075.chunk.js",
+    "static/media/expensive.jpg": "/static/media/expensive.8c31d51a65bcfec5323d.jpg",
+    "static/media/pepperoni.jpg": "/static/media/pepperoni.3379f543f48726ac3e98.jpg",
+    "static/media/pizza.jpeg": "/static/media/pizza.30d29111bd66b3e9b363.jpeg",
+    "static/media/pineapple.jpg": "/static/media/pineapple.522ad5c7a28e6a93900c.jpg",
+    "static/media/vegan.jpg": "/static/media/vegan.afae7fb6de6fc6f10c7d.jpg",
+    "static/media/multiplePizzas.jpeg": "/static/media/multiplePizzas.adb51d577bec87ae4217.jpeg",
+    "static/media/margherita.jpg": "/static/media/margherita.e52d3e396d9e5ea80175.jpg",
+    "static/media/pizzaLeft.jpg": "/static/media/pizzaLeft.29c57ab263094fd5b43b.jpg",
+    "static/media/pizzaLogo.png": "/static/media/pizzaLogo.c5b427f8b5f937527959.png",
+    "static/media/pedrotechspecial.jpg": "/static/media/pedrotechspecial.45521a7f6d852bb24d55.jpg",
+    "index.html": "/index.html",
+    "main.481dfe1a.css.map": "/static/css/main.481dfe1a.css.map",
+    "main.3f356a53.js.map": "/static/js/main.3f356a53.js.map",
+    "787.44c24075.chunk.js.map": "/static/js/787.44c24075.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.481dfe1a.css",
+    "static/js/main.3f356a53.js"
+  ]
+}
